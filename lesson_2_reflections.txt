@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a new repository on the directory we are in. It will create a git file for the exsiting files and we can now control different versions of project
