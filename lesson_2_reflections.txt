@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a new repository on the directory we are in. It will create a git file for the exsiting files and we can now control different versions of project
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area acts like a medium to between git and working directory and gives more control over the commits
+How can you use the staging area to make sure you have one commit per logical change?
+Staging area will help to review changes before comitting and also will help make commits in smaller portions. 
